@@ -5,10 +5,10 @@
 
 ### Tests passed
 
-- [x] Should be able to list the total balance inside the cards ✅ 
-- [x] Should be able to list the transactions ✅ 
-- [x] Should be able to navigate to the import page ✅ 
-- [x] Should be able to upload a file ✅ 
+- Should be able to list the total balance inside the cards ✅ 
+- Should be able to list the transactions ✅ 
+- Should be able to navigate to the import page ✅ 
+- Should be able to upload a file ✅ 
 
  ![](http://g.recordit.co/RUg7CLbyvG.gif)
 
